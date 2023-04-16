@@ -6,7 +6,7 @@ I'm Hasan, a front-end web developer from Bangladesh. Iam passionate about explo
 ### Skills: 
 
 
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod001)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmod001&show_icons=true&count_private=true)  
