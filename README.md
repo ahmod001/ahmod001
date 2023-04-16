@@ -6,7 +6,12 @@ I'm Hasan, a front-end web developer from Bangladesh. Iam passionate about explo
 ### Skills: 
 
 
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod001)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmod001&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmod001)  
 #### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmod507/)  
 ###
 <br/>
