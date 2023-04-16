@@ -6,14 +6,14 @@
 
 ## Frontend Development
 
-I'm Hasan, a front-end web developer from Bangladesh. Iam passionate about exploring and learning new technologies to stay ahead of the game in the dynamic field of web development. I have a keen eye for design and a strong understanding of user experience principles, enabling them to create intuitive and visually stunning interfaces.
+👋Hi! I'm Hasan, a front-end web developer from Bangladesh. </br> Iam passionate about exploring and learning new technologies to stay ahead of the game in the dynamic field of web development. I have a keen eye for design and a strong understanding of user experience principles, enabling them to create intuitive and visually stunning interfaces.
 
 ## Skills:
 
-- REACT
-- Tailwind
-- Bootstrap
-- Javascript, HTML, CSS
+- **REACT**
+- **Tailwind**
+- **Bootstrap**
+- **Javascript, HTML, CSS**
 
 ###
 <div align="center">
@@ -22,6 +22,6 @@ I'm Hasan, a front-end web developer from Bangladesh. Iam passionate about explo
 
 ### Social Links :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmod507/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmod001)
-
 ###
+  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
