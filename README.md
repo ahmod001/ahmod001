@@ -19,12 +19,12 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
-###
+</br>
 
 ## Working History :
 <div align="center">
     <img width=50% src="https://github-readme-stats.vercel.app/api?username=ahmod001&show_icons=true&count_private=true" alt=""/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmod001&locale=en&hide_title=false&layout=compact&card_width=50%&langs_count=5&theme=light&hide_border=false" height="165" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmod001&locale=en&hide_title=false&layout=compact&card_width=50%&langs_count=5&theme=light&hide_border=false" height ="214" alt="languages graph"  />
 
 </div>
 
