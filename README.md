@@ -7,10 +7,9 @@ I'm Hasan, a front-end web developer from Bangladesh. Iam passionate about explo
 
 
 
-
+#### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmod507/)  
 ###
-
-<br clear="both">
+<br/>
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
 
