@@ -1,3 +1,4 @@
+<!-- Gif -->
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -6,23 +7,30 @@
 
 ## Frontend Development
 
-👋Hi! I'm Hasan, a front-end web developer from Bangladesh. </br> Iam passionate about exploring and learning new technologies to stay ahead of the game in the dynamic field of web development. I have a keen eye for design and a strong understanding of user experience principles, enabling them to create intuitive and visually stunning interfaces.
+👋Hi! I'm Hasan, a front-end web developer from Bangladesh. Iam passionate about exploring and learning new technologies to stay ahead of the game in the dynamic field of web development. I have a keen eye for design and a strong understanding of user experience principles, enabling them to create intuitive and visually stunning interfaces.
 
 ## Skills :
 
-<div align="left">
+<div align="left" justify>
+<!--  JS Framework  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  
+<!--  CSS Frameworks  -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="40" width="52" alt="materialui"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+<!--  Fundametals  -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  
 </div>
 
 </br>
 
-<div align="center">
-    <img width=50% src="https://github-readme-stats.vercel.app/api?username=ahmod001&show_icons=true&count_private=true" alt=""/>
+<!-- Card -->
+<div align="start">
+    <img width=auto src="https://github-readme-stats.vercel.app/api?username=ahmod001&show_icons=true&count_private=true" alt=""/>
 
 </div>
 
