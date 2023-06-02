@@ -28,14 +28,9 @@ Hi, I'm Hasan, a front-end web developer from Bangladesh. Iam passionate about e
 
 </br>
 
-<!-- Card -->
-<div align="start">
-    <img width=auto src="https://github-readme-stats.vercel.app/api?username=ahmod001&show_icons=true&count_private=true" alt=""/>
 
 </div>
 
-### Social Links :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ahmod507/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmod001)
 ###
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
