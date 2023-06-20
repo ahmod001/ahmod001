@@ -7,7 +7,7 @@
 
 ## Frontend Development
 
-Hi, I'm Hasan, a front-end web developer from Bangladesh. Iam passionate about exploring and learning new technologies to stay ahead of the game in the dynamic field of web development. I have a keen eye for design and a strong understanding of user experience principles, enabling them to create intuitive and visually stunning interfaces.
+Welcome! I'm Hasan, a dedicated front-end web developer. With a passion for continuous learning, I strive to stay at the forefront of the ever-evolving field of web development. I specialize in creating visually captivating interfaces that provide seamless user experiences. My expertise lies in combining aesthetics with usability, ensuring intuitive designs that captivate users. Let's build exceptional web experiences together
 
 ## Skills :
 
@@ -27,7 +27,20 @@ Hi, I'm Hasan, a front-end web developer from Bangladesh. Iam passionate about e
 </div>
 
 </br>
+</div>
+<div align="left">
 
+## Contact
+
+<a href="mailto:hasan.dev1@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="48px">
+</a>
+<a href="https://www.linkedin.com/in/ahmod-hasan-95a635277" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="48px">
+</a>
+<a target="_blank" href="https://wa.me/+8801743477288" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="48px">
+</a>
 
 </div>
 
