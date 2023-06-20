@@ -35,7 +35,7 @@ Welcome! I'm Hasan, a dedicated front-end web developer. With a passion for cont
   <img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" width="48px">
 </a>
 
-<a href="mailto:hasan.dev1@gmail.com" target="_blank">
+<a href="mailto:hasan.webdev1@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="48px">
 </a>
 <a href="https://www.linkedin.com/in/ahmod-hasan-95a635277" target="_blank">
