@@ -30,7 +30,10 @@ Welcome! I'm Hasan, a dedicated front-end web developer. With a passion for cont
 </div>
 <div align="left">
 
-## Contact
+## Contacts:
+<a href="https://www.facebook.com/ahmod507?mibextid=ZbWKwL" target="_blank">
+  <img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" width="48px">
+</a>
 
 <a href="mailto:hasan.dev1@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="48px">
