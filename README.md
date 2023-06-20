@@ -1,6 +1,6 @@
-<!-- Gif -->
+<!-- ANIMATION     -->
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<img alt="Coder GIF" height=260 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 </div>
 
 # Ahmod Hasan
@@ -28,24 +28,29 @@ Welcome! I'm Hasan, a dedicated front-end web developer. With a passion for cont
 
 </br>
 </div>
-<div align="left">
 
-## Contacts:
+<div align="left">
+  
+## Contact :
+
 <a href="https://www.facebook.com/ahmod507?mibextid=ZbWKwL" target="_blank">
-  <img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" width="48px">
+  <img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" width="48px" style="margin-right: 10px;">
 </a>
 
 <a href="mailto:hasan.webdev1@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="48px">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="48px" style="margin-right: 10px;">
 </a>
+
 <a href="https://www.linkedin.com/in/ahmod-hasan-95a635277" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="48px">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="48px" style="margin-right: 10px;">
 </a>
-<a target="_blank" href="https://wa.me/+8801743477288" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="48px">
+
+<a href="https://wa.me/+8801743477288" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="48px" style="margin-right: 10px;">
 </a>
 
 </div>
+
 
 ###
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
