@@ -57,7 +57,3 @@ Welcome! I'm Hasan, a dedicated front-end web developer. With a passion for cont
 </div>
 
 
-
-###
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
