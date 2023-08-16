@@ -5,7 +5,7 @@
 
 # Ahmod Hasan
 
-## Frontend Development
+## Front End Development
 
 Welcome! I'm Hasan, a dedicated front-end web developer. With a passion for continuous learning, I strive to stay at the forefront of the ever-evolving field of web development. I specialize in creating visually captivating interfaces that provide seamless user experiences. My expertise lies in combining aesthetics with usability, ensuring intuitive designs that captivate users. Let's build exceptional web experiences together
 
