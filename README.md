@@ -30,6 +30,10 @@ Welcome! I'm Hasan, a dedicated front-end web developer. With a passion for cont
 </br>
 </div>
 
+<!--  Top Used Language  -->
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod001)](https://github.com/ahmod001)
+
 <div align="left">
 
 ## Contact :
