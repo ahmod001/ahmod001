@@ -5,27 +5,26 @@
 
 # Ahmod Hasan
 
-## Front End Development
+## Software Development
 
-Welcome! I'm Hasan, a dedicated front-end web developer. With a passion for continuous learning, I strive to stay at the forefront of the ever-evolving field of web development. I specialize in creating visually captivating interfaces that provide seamless user experiences. My expertise lies in combining aesthetics with usability, ensuring intuitive designs that captivate users. Let's build exceptional web experiences together
+Full-stack developer with a year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable databases. Passionate about developing innovative and user-friendly solutions that meet the needs of businesses and users alike
 
 ## Skills :
 
-<div align="left" justify>
-<!--  JS Framework  -->
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="52" alt="nextJs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="fireBase logo"  />
-<!--  CSS Frameworks  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="40" width="52" alt="materialui"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-<!--  Fundametals  -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="52" alt="nextJs logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="40" width="52" alt="laravel logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" width="52" alt="php logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="40" width="52" alt="materialui" />
 </div>
+
+
+
 
 </br>
 </div>
@@ -36,7 +35,7 @@ Welcome! I'm Hasan, a dedicated front-end web developer. With a passion for cont
 
 <div align="left">
 
-## Contact :
+## Connect with me :
 
 <a href="https://www.facebook.com/ahmod507?mibextid=ZbWKwL" target="_blank">
   <img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" width="48px" style="margin-right: 10px;">
