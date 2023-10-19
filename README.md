@@ -11,20 +11,37 @@ Full-stack developer with a year of experience building and maintaining web appl
 
 ## Skills :
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="52" alt="nextJs logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="40" width="52" alt="laravel logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" width="52" alt="php logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="40" width="52" alt="materialui" />
-</div>
-
-
-
+<table style="width: 100%;">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="52" alt="React logo" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="52" alt="Next.js logo" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/ahmod001/News-Portal/assets/121039395/06079a45-4e0c-4238-8685-49629027872c" height="40" width="40" alt="Laravel logo" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/ahmod001/News-Portal/assets/121039395/694cb0fb-0e01-46d6-b1f5-e99c446a18a9" height="30" width="52" alt="Tailwind CSS logo" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="Bootstrap logo" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="40" width="52" alt="Material-UI logo" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="MySQL logo" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" width="52" alt="PHP logo" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo" />
+    </td>
+  </tr>
+</table>
 
 </br>
 </div>
