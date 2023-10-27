@@ -58,7 +58,7 @@ Full-stack developer with a year of experience building and maintaining web appl
   <img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" width="48px" style="margin-right: 10px;">
 </a>
 
-<a href="mailto:hasan.webdev1@gmail.com" target="_blank">
+<a href="mailto:ahmod.hasan@outlook.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="48px" style="margin-right: 10px;">
 </a>
 
