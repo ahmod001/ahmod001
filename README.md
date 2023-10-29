@@ -62,7 +62,7 @@ Full-stack developer with a year of experience building and maintaining web appl
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="48px" style="margin-right: 10px;">
 </a>
 
-<a href="https://www.linkedin.com/in/ahmod-hasan-95a635277" target="_blank">
+<a href="https://www.linkedin.com/in/ahmod-hasan" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="48px" style="margin-right: 10px;">
 </a>
 
