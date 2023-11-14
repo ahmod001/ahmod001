@@ -5,7 +5,7 @@
 
 # Ahmod Hasan
 
-## Software Development
+## Full Stack Developer
 
 Full-stack developer with a year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable databases. Passionate about developing innovative and user-friendly solutions that meet the needs of businesses and users alike
 
@@ -38,7 +38,13 @@ Full-stack developer with a year of experience building and maintaining web appl
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" width="52" alt="PHP logo" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo" />
+      <img src="https://github.com/ahmod001/ahmod001/assets/121039395/bbf38708-0ebb-4713-ba40-d8a9305eb0b0" height="42" width="42" alt="JavaScript logo" />
+    </td>
+     <td align="center">
+      <img src="https://github.com/ahmod001/ahmod001/assets/121039395/ea1176a5-5aa5-4fd9-871e-7f9e30883184" height="42" width="42" alt="css logo" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/ahmod001/ahmod001/assets/121039395/f90120d9-b659-438d-8d15-4e09e30ee8a0" height="42" width="42" alt="htmL logo" />
     </td>
   </tr>
 </table>
