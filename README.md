@@ -28,6 +28,9 @@ Full-stack developer with a year of experience building and maintaining web appl
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="Bootstrap logo" />
     </td>
+     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" width="52" alt="SCSS logo" />
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="40" width="52" alt="Material-UI logo" />
     </td>
