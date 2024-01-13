@@ -43,6 +43,8 @@ Full-stack developer with a year of experience building and maintaining web appl
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" width="52" alt="PHP logo" />
     </td>
+     </tr>
+    <tr>
     <td align="center">
       <img src="https://github.com/ahmod001/ahmod001/assets/121039395/bbf38708-0ebb-4713-ba40-d8a9305eb0b0" height="42" width="42" alt="JavaScript logo" />
     </td>
