@@ -7,7 +7,7 @@
 
 ## Web Developer
 
-Full-stack web developer with a year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable databases. Passionate about developing innovative and user-friendly solutions that meet the needs of businesses and users alike
+Full-stack web developer with 2+ year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React-Vue. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable databases. Passionate about developing innovative and user-friendly solutions that meet the needs of businesses and users alike
 
 ## Skills :
 
@@ -17,7 +17,7 @@ Full-stack web developer with a year of experience building and maintaining web 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="52" alt="React logo" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="52" alt="Next.js logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="Vue logo" />
     </td>
     <td align="center">
       <img src="https://github.com/ahmod001/News-Portal/assets/121039395/06079a45-4e0c-4238-8685-49629027872c" height="40" width="40" alt="Laravel logo" />
