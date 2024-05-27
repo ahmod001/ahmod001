@@ -23,6 +23,9 @@ Full-stack developer with 2+ year of experience building and maintaining web app
       <img src="https://github.com/ahmod001/News-Portal/assets/121039395/06079a45-4e0c-4238-8685-49629027872c" height="40" width="40" alt="Laravel logo" />
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="Typescript" />
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height="40" width="40" alt="jQuery logo" />
     </td>
     <td align="center">
