@@ -5,9 +5,9 @@
 
 # Ahmod Hasan
 
-## Full Stack Developer
+## Freelance Web Developer
 
-Full-stack developer with 2+ year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React-Vue. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable relational databases. Passionate about developing innovative solutions that meet the needs of business and users requirement.
+Full-stack web developer with 2+ year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React-Vue. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable relational databases. Passionate about developing innovative solutions that meet the needs of business and users requirement.
 
 ## Skills :
 
