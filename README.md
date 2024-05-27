@@ -86,12 +86,9 @@ Full-stack developer with 2+ year of experience building and maintaining web app
 <a href="https://wa.me/+8801743477288" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="48px" style="margin-right: 10px;">
 </a>
-<a href="https://wa.me/+8801743477288" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="48px" style="margin-right: 10px;">
-</a>
 
 <a href="https://youtube.com/@ahmod-hasan" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/youtube.png" alt="WhatsApp" width="48px" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/fluent/48/000000/youtube.png" alt="Youtube" width="48px" style="margin-right: 10px;">
 </a>
 </div>
 <div align="center">
