@@ -69,7 +69,7 @@ Full-stack web developer with 2+ year of experience building and maintaining web
 
 <div align="left">
 
-## Connect with me :
+## Links :
 
 <a href="https://www.facebook.com/ahmod507?mibextid=ZbWKwL" target="_blank">
   <img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" width="48px" style="margin-right: 10px;">
@@ -81,10 +81,6 @@ Full-stack web developer with 2+ year of experience building and maintaining web
 
 <a href="https://www.linkedin.com/in/ahmod-hasan" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="48px" style="margin-right: 10px;">
-</a>
-
-<a href="https://wa.me/+8801743477288" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="48px" style="margin-right: 10px;">
 </a>
 
 <a href="https://youtube.com/@ahmod-hasan" target="_blank">
