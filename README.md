@@ -16,30 +16,19 @@ Full-stack web developer with 2+ year of experience building and maintaining web
 </br>
 </div>
 
-<!--  Top Used Language  -->
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmod001&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmod001&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod001&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmod001)](https://github.com/ahmod001)
-
-<div align="left">
 
 ## Let's connect :
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmod507) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmod-hasan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahmod-hasan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahmod__hasan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmod-hasan) 
 
-<a href="https://www.facebook.com/ahmod507?mibextid=ZbWKwL" target="_blank">
-  <img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" width="48px" style="margin-right: 10px;">
-</a>
 
-<a href="mailto:ahmod.hasan@outlook.com" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="48px" style="margin-right: 10px;">
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<a href="https://www.linkedin.com/in/ahmod-hasan" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="48px" style="margin-right: 10px;">
-</a>
 
-<a href="https://youtube.com/@ahmod-hasan" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/youtube.png" alt="Youtube" width="48px" style="margin-right: 10px;">
-</a>
-</div>
 <div align="center">
 <img alt="Coder GIF" height=260  src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
 </div>
