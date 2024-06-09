@@ -3,13 +3,13 @@
 <img alt="Coder GIF" height=260 width="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-# Ahmod Hasan
+# Hey, I'm Hasan 👋
 
 ## Freelance Web Developer
 
 Full-stack web developer with 2+ year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React-Vue. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable relational databases. Passionate about developing innovative solutions that meet the needs of business and users requirement.
 
-## Skills :
+## Skills - Language and tools :
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,jquery,tailwindcss,bootstrap,scss,mui,mysql,sqlite,vite,npm,postman,git,github,vscode,figma,ts,js,php,css,html)](https://skillicons.dev)
 
@@ -22,7 +22,7 @@ Full-stack web developer with 2+ year of experience building and maintaining web
 
 <div align="left">
 
-## Links :
+## Let's connect :
 
 <a href="https://www.facebook.com/ahmod507?mibextid=ZbWKwL" target="_blank">
   <img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="Facebook" width="48px" style="margin-right: 10px;">
