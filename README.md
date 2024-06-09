@@ -11,54 +11,7 @@ Full-stack web developer with 2+ year of experience building and maintaining web
 
 ## Skills :
 
-<table style="width: 100%;">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="52" alt="React logo" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="Vue logo" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/ahmod001/News-Portal/assets/121039395/06079a45-4e0c-4238-8685-49629027872c" height="40" width="40" alt="Laravel logo" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="Typescript" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height="40" width="40" alt="jQuery logo" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/ahmod001/News-Portal/assets/121039395/694cb0fb-0e01-46d6-b1f5-e99c446a18a9" height="30" width="52" alt="Tailwind CSS logo" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="Bootstrap logo" />
-    </td>
-     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" width="52" alt="SCSS logo" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="40" width="52" alt="Material-UI logo" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="MySQL logo" />
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" height="40" width="52" alt="PHP logo" />
-    </td>
-     </tr>
-    <tr>
-    <td align="center">
-      <img src="https://github.com/ahmod001/ahmod001/assets/121039395/bbf38708-0ebb-4713-ba40-d8a9305eb0b0" height="42" width="42" alt="JavaScript logo" />
-    </td>
-     <td align="center">
-      <img src="https://github.com/ahmod001/ahmod001/assets/121039395/ea1176a5-5aa5-4fd9-871e-7f9e30883184" height="42" width="42" alt="css logo" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/ahmod001/ahmod001/assets/121039395/f90120d9-b659-438d-8d15-4e09e30ee8a0" height="42" width="42" alt="htmL logo" />
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,jquery,tailwindcss,bootstrap,scss,mui,mysql,sqlite,vite,git,github,vscode,figma,ts,js,php,css,html&perline=10)](https://skillicons.dev)
 
 </br>
 </div>
