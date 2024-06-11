@@ -12,7 +12,8 @@ Full-stack web developer with 2+ year of experience building and maintaining web
 ## Skills - Language and tools :
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,jquery,tailwindcss,bootstrap,scss,mui,mysql,sqlite,vite,npm,postman,git,github,vscode,figma,ts,js,php,css,html)](https://skillicons.dev)
-
+</br>
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,tailwindcss,html,css,php,js&perline=4)](https://skillicons.dev)
 </br>
 </div>
 
