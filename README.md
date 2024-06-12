@@ -22,7 +22,7 @@ Full-stack web developer with 2+ year of experience building and maintaining web
 
 
 ## Let's connect :
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmod507) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmod-hasan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahmod-hasan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahmod__hasan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmod-hasan) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/freelanceDeveloperHasan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmod-hasan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ahmod-hasan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahmod__hasan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmod-hasan) 
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
