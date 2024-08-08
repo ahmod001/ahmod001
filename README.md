@@ -3,11 +3,11 @@
 <img alt="Coder GIF" height=260 width="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-# Hey, I'm Hasan 👋
+# Hey, I'm Hasan </>
 
 ## Freelance Web Developer
 
-Full-stack web developer with 2+ year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React-Vue. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable relational databases. Passionate about developing innovative solutions that meet the needs of business and users requirement.
+Full-stack web developer with 2.5+ year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React-Vue. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable relational databases. Passionate about developing innovative solutions that meet the needs of business and users requirement.
 
 ## Skills - Language and tools :
 
