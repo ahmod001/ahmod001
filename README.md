@@ -8,7 +8,10 @@
 # Hey, I am Hasan 
 
 ## Freelance Web Developer
-Full-stack web developer with 2.5+ year of experience building and maintaining web applications. Expertise in both front-end and back-end development, with a focus on Laravel and React-Vue. Skilled at implementing user authentication and authorization, developing and optimizing APIs, and designing and implementing scalable relational databases. Passionate about developing innovative solutions that meet the needs of business and users requirement.
+I'm a **Web Developer** who loves working on **Frontend Development** and building complete solutions with **Laravel-PHP**. <br>
+I work as a **Freelancer** on project-based contracts, delivering quality results.<br>
+
+Feel free to **DM me** if you need any help. I'm here to assist!
 
 ## Skills - Language and tools :
 
