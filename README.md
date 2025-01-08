@@ -1,8 +1,6 @@
 <!-- ANIMATION     -->
 <div align="center">
-    <img alt="" width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 <img alt="Coder GIF" width="auto" src="https://github.com/user-attachments/assets/7b5eb51b-9a79-4add-8f5e-8194ba869409" />
-  <img alt="" width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </div>
 
 # Hey, I am Hasan 
