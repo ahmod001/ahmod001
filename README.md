@@ -3,9 +3,9 @@
 <img alt="Coder GIF" width="auto" src="https://github.com/user-attachments/assets/7b5eb51b-9a79-4add-8f5e-8194ba869409" />
 </div>
 
-# Hey, I am Hasan 
+# Hi, I am Hasan 
 
-## Freelance Web Developer
+## A Freelance Web Developer
 I'm a **Web Developer** who loves working on **Frontend Development** and building complete solutions with **Laravel-PHP**. <br>
 I work as a **Freelancer** on project-based contracts, delivering quality results.<br>
 
