@@ -13,7 +13,7 @@ Feel free to **DM me** if you need any help. I'm here to assist!
 
 ## Skills - Language and tools :
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,nextjs,jquery,tailwindcss,bootstrap,scss,mui,mysql,sqlite,ts,js,php,css,html,vite,npm,yarn,postman,git,github,vscode,netlify,vercel,powershell,figma,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,nextjs,jquery,tailwindcss,bootstrap,scss,mui,mysql,sqlite,ts,js,php,css,html,vite,vitest,npm,yarn,postman,git,github,vscode,netlify,vercel,powershell,figma,vite)](https://skillicons.dev)
 </br>
 </div>
 
