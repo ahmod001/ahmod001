@@ -5,7 +5,7 @@
 
 # Hi, I am Hasan 
 
-## a Freelance Web Developer
+## a Software Developer
 I'm a **Web Developer** who loves working on **Frontend Development** and building complete solutions with **Laravel-PHP**. <br>
 I work as a **Freelancer** on project-based contracts, delivering quality results.<br>
 
