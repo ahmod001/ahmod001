@@ -3,7 +3,7 @@
 <img alt="Coder GIF" width="auto" src="https://github.com/user-attachments/assets/7b5eb51b-9a79-4add-8f5e-8194ba869409" />
 </div>
 
-# Hi, I am Hasan 
+# Hi, I'm Hasan 
 
 ## a Software Developer
 
