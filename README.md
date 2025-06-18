@@ -6,10 +6,11 @@
 # Hi, I am Hasan 
 
 ## a Software Developer
-I'm a **Web Developer** who loves working on **Frontend Development** and building complete solutions with **Laravel-PHP**. <br>
-I work as a **Freelancer** on project-based contracts, delivering quality results.<br>
 
-Feel free to **DM me** if you need any help. I'm here to assist!
+- I am a self-taught programmer based in Bangladesh. 
+- I love to do coding.
+- I make softwares to help people.
+- I make web & mobile apps.
 
 ## Skills - Language and tools :
 
